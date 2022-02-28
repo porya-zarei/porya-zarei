@@ -71,7 +71,7 @@
 <p align="center">
   <img style="display:initial;" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=porya-zarei&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img style="display:initial;" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=porya-zarei&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img style="display:initial;" src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img style="display:initial;" src ="https://github-readme-streak-stats.herokuapp.com?user=porya-zarei&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
 </p>
