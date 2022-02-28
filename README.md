@@ -1,4 +1,4 @@
-# &emsp; Hello there I am Porya Zarei👋
+# Hello there I am Porya Zarei👋
 
 ## My tech stack
 <br/>
