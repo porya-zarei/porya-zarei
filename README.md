@@ -1,14 +1,8 @@
-<br/>
-<br/>
-<br/>
-<br/>
-
 # &emsp; Hello there I am Porya Zarei👋
 
-## &emsp; My tech stack
+## My tech stack
 <br/>
-<div align="left"> 
-  &emsp;
+<div align="left">
   <a> 
     <img style="display:initial;" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
   </a> 
@@ -63,9 +57,8 @@
 </div>
 
 
-## &emsp; Connect with me:
+## Connect with me:
 <p align="left">
-  &emsp;
   <a href="https://www.linkedin.com/in/porya-zarei/" target="blank"><img style="display:initial;" align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
